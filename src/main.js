@@ -14,4 +14,5 @@ let borderPadding = borderUISize / 3;
 
 //Name = Ian Ellis, Project Title = Sugar Patrol, Hours = 5-7 Hours 
 //Points Breakdown: 60 = Redesign Artwork/Sound/UI, 5 = Controllable Rocket, Total = 65 
+//Source for Sounds = https://www.leshylabs.com/apps/sfMaker/
   
